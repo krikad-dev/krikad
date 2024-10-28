@@ -1,6 +1,7 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:djangoflow_app/djangoflow_app.dart';
 import 'package:djangoflow_app_links/djangoflow_app_links.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -12,6 +13,7 @@ import 'configurations/constants/constants.dart';
 import 'configurations/router/router.dart';
 import 'configurations/theme/theme.dart';
 import 'features/auth/authentication.dart';
+import 'features/auth/data/repo/auth_repo.dart';
 import 'l10n/language_provider.dart';
 
 class CustomAppBuilder extends AppBuilder {
@@ -25,11 +27,24 @@ class CustomAppBuilder extends AppBuilder {
   }) : super(
     onInitState: (context) {},
     repositoryProviders: [
+       RepositoryProvider<AuthRepo>(
+              create: (context) => AuthRepo(FirebaseAuth.instance),
+            ),
        RepositoryProvider<AppLinksRepository>.value(
               value: appLinksRepository,
               )
     ],
     blocProviders: [
+      BlocProvider<AppCubit>(
+              create: (context) => AppCubit.instance,
+            ),
+            BlocProvider<AuthCubit>(
+              create: (context) => AuthCubit.instance
+                ..init(
+                  context.read<AuthRepo>(),
+                ),
+              lazy: false,
+            ),
       BlocProvider<AppCubit>(
               create: (context) => AppCubit.instance,
             ),
@@ -51,6 +66,9 @@ class CustomAppBuilder extends AppBuilder {
                     scaffoldMessengerKey:
                         DjangoflowAppSnackbar.scaffoldMessengerKey,
                     title: appName,
+                    routerConfig: appRouter.config(
+                      reevaluateListenable: ReevaluateListenable.stream(AuthCubit.instance.stream),
+                    ),
                     routeInformationParser: appRouter.defaultRouteParser(),
                     theme: AppTheme.light,
                     darkTheme: AppTheme.dark,

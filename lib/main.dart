@@ -39,9 +39,9 @@ Future<void> main() async {
     await Hive.initFlutter();
 
     
-    await Firebase.initializeApp(
-      // options: DefaultFirebaseOptions.currentPlatform,
-    );
+    // await Firebase.initializeApp(
+    //   // options: DefaultFirebaseOptions.currentPlatform,
+    // );
     const fatalError = true;
 
     // Configure crashylytics

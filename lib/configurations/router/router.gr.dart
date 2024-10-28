@@ -16,41 +16,6 @@ import 'package:flutter_starter/features/auth/presentation/presentation.dart'
 import 'package:flutter_starter/features/Home/presentation/pages/home_page.dart'
     deferred as _i2;
 
-abstract class $AppRouter extends _i4.RootStackRouter {
-  $AppRouter({super.navigatorKey});
-
-  @override
-  final Map<String, _i4.PageFactory> pagesMap = {
-    AppHomeRoute.name: (routeData) {
-      return _i4.AutoRoutePage<dynamic>(
-        routeData: routeData,
-        child: _i4.DeferredWidget(
-          _i1.loadLibrary,
-          () => _i1.AppHomePage(),
-        ),
-      );
-    },
-    HomeRoute.name: (routeData) {
-      return _i4.AutoRoutePage<dynamic>(
-        routeData: routeData,
-        child: _i4.DeferredWidget(
-          _i2.loadLibrary,
-          () => _i2.HomePage(),
-        ),
-      );
-    },
-    LoginRoute.name: (routeData) {
-      return _i4.AutoRoutePage<dynamic>(
-        routeData: routeData,
-        child: _i4.DeferredWidget(
-          _i3.loadLibrary,
-          () => _i3.LoginPage(),
-        ),
-      );
-    },
-  };
-}
-
 /// generated route for
 /// [_i1.AppHomePage]
 class AppHomeRoute extends _i4.PageRouteInfo<void> {
@@ -62,7 +27,15 @@ class AppHomeRoute extends _i4.PageRouteInfo<void> {
 
   static const String name = 'AppHomeRoute';
 
-  static const _i4.PageInfo<void> page = _i4.PageInfo<void>(name);
+  static _i4.PageInfo page = _i4.PageInfo(
+    name,
+    builder: (data) {
+      return _i4.DeferredWidget(
+        _i1.loadLibrary,
+        () => _i1.AppHomePage(),
+      );
+    },
+  );
 }
 
 /// generated route for
@@ -76,7 +49,15 @@ class HomeRoute extends _i4.PageRouteInfo<void> {
 
   static const String name = 'HomeRoute';
 
-  static const _i4.PageInfo<void> page = _i4.PageInfo<void>(name);
+  static _i4.PageInfo page = _i4.PageInfo(
+    name,
+    builder: (data) {
+      return _i4.DeferredWidget(
+        _i2.loadLibrary,
+        () => _i2.HomePage(),
+      );
+    },
+  );
 }
 
 /// generated route for
@@ -90,5 +71,13 @@ class LoginRoute extends _i4.PageRouteInfo<void> {
 
   static const String name = 'LoginRoute';
 
-  static const _i4.PageInfo<void> page = _i4.PageInfo<void>(name);
+  static _i4.PageInfo page = _i4.PageInfo(
+    name,
+    builder: (data) {
+      return _i4.DeferredWidget(
+        _i3.loadLibrary,
+        () => _i3.LoginPage(),
+      );
+    },
+  );
 }
