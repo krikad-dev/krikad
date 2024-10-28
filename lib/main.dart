@@ -15,7 +15,7 @@ import 'package:flutter_starter/utils/extensions/extensions.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
 
-import 'configurations/router.dart';
+import 'configurations/router/router.dart';
 import 'features/appProvider/app_provider.dart';
 
 Future<void> main() async {

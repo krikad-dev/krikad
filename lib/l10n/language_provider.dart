@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:tatpar_acf/l10n/l10n.dart';
+import 'package:flutter_starter/l10n/l10n.dart';
 
 class LanguageProvider extends ChangeNotifier {
   Locale _locale;

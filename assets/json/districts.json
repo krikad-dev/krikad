@@ -1,0 +1,2643 @@
+{
+    "Panchayat Code":[
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Bagban",
+      "Panch_code": "BBN"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Bahuwara",
+      "Panch_code": "BHW"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Bakhri East",
+      "Panch_code": "BKE"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Bakhri West",
+      "Panch_code": "BKW"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Chak Hameed",
+      "Panch_code": "CHH"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Ghaghara",
+      "Panch_code": "GHG"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Makkhachak",
+      "Panch_code": "MKK"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Mohanpur",
+      "Panch_code": "MOP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Parihara",
+      "Panch_code": "PAH"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Ratan",
+      "Panch_code": "RTN"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Sakarpura",
+      "Panch_code": "SKP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Bakhri",
+      "Block_code": "BKH",
+      "Panchayat": "Salauna",
+      "Panch_code": "SAL"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Amarpur",
+      "Panch_code": "AMP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Babhangama",
+      "Panch_code": "BBG"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Bathauli",
+      "Panch_code": "BTH"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Bihat1",
+      "Panch_code": "BAT"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Bihat2",
+      "Panch_code": "BIA"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Bihat3",
+      "Panch_code": "BIH"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Bihat4",
+      "Panch_code": "BHI"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Garahara1",
+      "Panch_code": "GAR"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Garahara2",
+      "Panch_code": "GHR"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Hajipur",
+      "Panch_code": "HAJ"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Keshawe",
+      "Panch_code": "KES"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Mahna",
+      "Panch_code": "MHN"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Maida Babhangama",
+      "Panch_code": "MBG"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Malhipur North",
+      "Panch_code": "MPN"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Malhipur South",
+      "Panch_code": "MPS"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Mosadpur",
+      "Panch_code": "MSP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Neenga",
+      "Panch_code": "NNG"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Noorpur",
+      "Panch_code": "NRP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Papraur",
+      "Panch_code": "PAP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Peepra Dewas",
+      "Panch_code": "PED"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Rajwara",
+      "Panch_code": "RAJ"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Sahuri",
+      "Panch_code": "SHR"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Simaria1",
+      "Panch_code": "SMR"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Barauni",
+      "Block_code": "BRN",
+      "Panchayat": "Simaria2",
+      "Panch_code": "SMA"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Basahi",
+      "Panch_code": "BSH"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Bikrampur",
+      "Panch_code": "BIK"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Cheriya Bariyarpur",
+      "Panch_code": "CHB"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Gopalpur",
+      "Panch_code": "GOP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Khanjapur",
+      "Panch_code": "KJP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Kumbhi",
+      "Panch_code": "KUM"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Manjhaul-1",
+      "Panch_code": "MJH"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Manjhaul-2",
+      "Panch_code": "MJL"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Manjhaul-3",
+      "Panch_code": "MNJ"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Manjhaul-4",
+      "Panch_code": "MNL"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Pabra",
+      "Panch_code": "PBR"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Sakarbasa",
+      "Panch_code": "SAB"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Shahpur",
+      "Panch_code": "SPR"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Cheria Bariarpur",
+      "Block_code": "CBP",
+      "Panchayat": "Shripur",
+      "Panch_code": "SRP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Khudabandpur",
+      "Block_code": "KBP",
+      "Panchayat": "Bara",
+      "Panch_code": "BRA"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Khudabandpur",
+      "Block_code": "KBP",
+      "Panchayat": "Bariarpur East",
+      "Panch_code": "BPE"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Khudabandpur",
+      "Block_code": "KBP",
+      "Panchayat": "Bariarpur West",
+      "Panch_code": "BPW"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Khudabandpur",
+      "Block_code": "KBP",
+      "Panchayat": "Daulatpur",
+      "Panch_code": "DAP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Khudabandpur",
+      "Block_code": "KBP",
+      "Panchayat": "Fafaut",
+      "Panch_code": "FAF"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Khudabandpur",
+      "Block_code": "KBP",
+      "Panchayat": "Khodabandpur",
+      "Panch_code": "KDP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Khudabandpur",
+      "Block_code": "KBP",
+      "Panchayat": "Meghaul",
+      "Panch_code": "MEG"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Khudabandpur",
+      "Block_code": "KBP",
+      "Panchayat": "Sagi",
+      "Panch_code": "SAG"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Aadharpur",
+      "Panch_code": "ADP"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Barauni1",
+      "Panch_code": "BAU"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Barauni2",
+      "Panch_code": "BRI"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Barauni3",
+      "Panch_code": "BRU"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Baro North",
+      "Panch_code": "BON"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Baro South",
+      "Panch_code": "BOS"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Chakdad Madhurapur",
+      "Panch_code": "CHM"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Chilhai",
+      "Panch_code": "CHL"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Dhankaul",
+      "Panch_code": "DHK"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Fulwaria1",
+      "Panch_code": "FLA"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Fulwaria2",
+      "Panch_code": "FLI"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Fulwaria3",
+      "Panch_code": "FLW"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Gaura1",
+      "Panch_code": "GAA"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Gaura2",
+      "Panch_code": "GAU"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Gaura3",
+      "Panch_code": "GRA"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Nipania Madhurapur",
+      "Panch_code": "NIM"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Pakthaul",
+      "Panch_code": "PAK"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Peepara Dodraj",
+      "Panch_code": "PPD"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Pidhauli",
+      "Panch_code": "PID"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Raatgaon",
+      "Panch_code": "RTG"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Shokahara1",
+      "Panch_code": "SHH"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Shokahara2",
+      "Panch_code": "SKH"
+     },
+     {
+      "District": "Begusarai",
+      "Block": "Teghra",
+      "Block_code": "TEG",
+      "Panchayat": "Teghra Nagar Parishad",
+      "Panch_code": "TNP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Aalampur Kodariya",
+      "Panch_code": "AAK"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Bajitpur Bambaiya",
+      "Panch_code": "BAJ"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Belsandi Tara",
+      "Panch_code": "BET"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Bharpura Patpara",
+      "Panch_code": "BHP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Bhuswar",
+      "Panch_code": "BHU"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Bibhutipur Purab",
+      "Panch_code": "BIE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Bibhutipur Uttar",
+      "Panch_code": "BIN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Boria",
+      "Panch_code": "BOR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Chakhabib",
+      "Panch_code": "CHA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Chora Tabhaka",
+      "Panch_code": "CHT"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Deshari Karrakh",
+      "Panch_code": "DEK"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Gangoli Manda",
+      "Panch_code": "GAM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Kalyanpur Dakshni",
+      "Panch_code": "KAS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Kalyanpur Uttar",
+      "Panch_code": "KAN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Kerai",
+      "Panch_code": "KER"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Khas Tabhaka Dakshni",
+      "Panch_code": "KTS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Khas Tabhaka Uttar",
+      "Panch_code": "KTN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Mahammadpur Sakra",
+      "Panch_code": "MAM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Maheshi",
+      "Panch_code": "MAE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Mahthi Dakshani",
+      "Panch_code": "MAS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Mahthi Uttar",
+      "Panch_code": "MAU"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Mustafapur",
+      "Panch_code": "MUS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Narhan",
+      "Panch_code": "NAH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Patailiya",
+      "Panch_code": "PAT"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Sakh mohan",
+      "Panch_code": "SAM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Singhiya Bujurg Dakshani",
+      "Panch_code": "SBS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Singhiya Bujurg Uttar",
+      "Panch_code": "SBN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Surauli",
+      "Panch_code": "SUR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bibhutipur",
+      "Block_code": "BIB",
+      "Panchayat": "Tabhaka",
+      "Panch_code": "TAB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Belsandi",
+      "Panch_code": "BES"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Bithan",
+      "Panch_code": "BTN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Jagmohra",
+      "Panch_code": "JAM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Karanchi",
+      "Panch_code": "KNI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Marthua",
+      "Panch_code": "MRH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Narpa",
+      "Panch_code": "NAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Pusaho",
+      "Panch_code": "PUH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Sakhwa",
+      "Panch_code": "SAW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Salaha Bujurg",
+      "Panch_code": "SAU"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Salaha Chandan",
+      "Panch_code": "SLC"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Sihma",
+      "Panch_code": "SHM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Sohma",
+      "Panch_code": "SOH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Bithan",
+      "Block_code": "BIT",
+      "Panchayat": "Ujan",
+      "Panch_code": "UJA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Ajnaul",
+      "Panch_code": "AZN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Bambaiya Harlal",
+      "Panch_code": "BHL"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Basadhiya",
+      "Panch_code": "BAS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Bulakipur",
+      "Panch_code": "BLP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Chakbahuddin",
+      "Panch_code": "CHK"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Harishankarpur",
+      "Panch_code": "HSP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Kamraon",
+      "Panch_code": "KMR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Keota",
+      "Panch_code": "KEO"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Malpur",
+      "Panch_code": "MAP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Nagar Panchayat",
+      "Panch_code": "NGP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Nagargama",
+      "Panch_code": "NAG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Pagda",
+      "Panch_code": "PAG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Panr",
+      "Panch_code": "PNR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Salkhanni Mukhtiyarpur",
+      "Panch_code": "SMO"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Dalsinghsarai",
+      "Block_code": "DSS",
+      "Panchayat": "Sultanpur Ghatho",
+      "Panch_code": "SGH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Ahilwar",
+      "Panch_code": "AHI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Aura",
+      "Panch_code": "AUR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Bargaon",
+      "Panch_code": "BAG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Bhatwan",
+      "Panch_code": "BHA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Devdha",
+      "Panch_code": "DEV"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Devra",
+      "Panch_code": "DER"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Dudhapura",
+      "Panch_code": "DUD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Fulhara",
+      "Panch_code": "FUL"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Hasanpur",
+      "Panch_code": "HAS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Mangalgadh",
+      "Panch_code": "MAG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Marachi Ujagar",
+      "Panch_code": "MRU"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Maujee",
+      "Panch_code": "MAJ"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Nakuni",
+      "Panch_code": "NAK"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Nayanagar",
+      "Panch_code": "NAY"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Paridah",
+      "Panch_code": "PAI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Paroriya",
+      "Panch_code": "PAO"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Rampur Rajwa",
+      "Panch_code": "RAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Sakarpura",
+      "Panch_code": "SAK"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Shasan",
+      "Panch_code": "SHA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Hasanpur",
+      "Block_code": "HAP",
+      "Panchayat": "Surha Basantpur",
+      "Panch_code": "SUB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Bachhauli",
+      "Panch_code": "BAC"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Bhorejairam",
+      "Panch_code": "BHJ"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Bishanpur Abhi",
+      "Panch_code": "BSA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Dinmanpur Dakshini",
+      "Panch_code": "DIS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Dinmanpur Uttari",
+      "Panch_code": "DIN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Hasanpur",
+      "Panch_code": "HPR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Jahangirpur",
+      "Panch_code": "JAP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Kanu Bishanpur",
+      "Panch_code": "KAB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Khairi",
+      "Panch_code": "KHA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Khanpur Dakshini",
+      "Panch_code": "KHS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Khanpur Uttari",
+      "Panch_code": "KHN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Nathudwar",
+      "Panch_code": "NAT"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Purshottampur Annu",
+      "Panch_code": "PUA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Rewda",
+      "Panch_code": "REW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Sadipur",
+      "Panch_code": "SAD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Shivaisinghpur",
+      "Panch_code": "SSP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Shobhan",
+      "Panch_code": "SHO"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Shripur Gahar Paschimi",
+      "Panch_code": "SGW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Khanpur",
+      "Block_code": "KHP",
+      "Panchayat": "Shripur Gahar Purvi",
+      "Panch_code": "SGE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Bhadaia",
+      "Panch_code": "BDA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Bochaha",
+      "Panch_code": "BOC"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Dubaha",
+      "Panch_code": "DUB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Harail",
+      "Panch_code": "HRL"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Kalyanpur Basti East",
+      "Panch_code": "KAE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Kalyanpur Basti West",
+      "Panch_code": "KAW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Karim Nagar",
+      "Panch_code": "KRM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Kursaha",
+      "Panch_code": "KUR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Madudabad",
+      "Panch_code": "MAD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Mohiuddinnagar North",
+      "Panch_code": "MNN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Mohiuddinnagar South",
+      "Panch_code": "MNS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Mohmadipur",
+      "Panch_code": "MOH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Rajajan",
+      "Panch_code": "RJJ"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Raspur Patasia East",
+      "Panch_code": "RAE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Raspur Patasia West",
+      "Panch_code": "RAW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Sivaisingh Pur",
+      "Panch_code": "SIV"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Mohiuddinagar",
+      "Block_code": "MNG",
+      "Panchayat": "Tetar Pur",
+      "Panch_code": "TET"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Bajitpur Karnail",
+      "Panch_code": "BJK"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Banvira",
+      "Panch_code": "BAV"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Chakpahar",
+      "Panch_code": "CHP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Chaksikandra",
+      "Panch_code": "CHI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Dharmpur Baande",
+      "Panch_code": "DHB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Gunai Bahasi",
+      "Panch_code": "GUB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Harpur Bhindi",
+      "Panch_code": "HPB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Indravara",
+      "Panch_code": "IND"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Kesho Narayan",
+      "Panch_code": "KEN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Larua",
+      "Panch_code": "LAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Maricha",
+      "Panch_code": "MAI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Morwa Dakshni",
+      "Panch_code": "MOS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Morwa Uttari",
+      "Panch_code": "MON"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Nikaspur",
+      "Panch_code": "NIA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Rariyaahi",
+      "Panch_code": "RAY"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Sarangpur Paschimi",
+      "Panch_code": "SRW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Sarangpur Purvi",
+      "Panch_code": "SRE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Morwa",
+      "Block_code": "MOR",
+      "Panchayat": "Songar",
+      "Panch_code": "SON"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Bahadurpur Patori",
+      "Panch_code": "BDP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Chacksaho",
+      "Panch_code": "CHO"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Chacksalem",
+      "Panch_code": "CKS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Darba",
+      "Panch_code": "DAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Dhamoun Uttar",
+      "Panch_code": "DHU"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Dhanmoun Dakshin",
+      "Panch_code": "DHD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Harpur Saidabad",
+      "Panch_code": "HPS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Hasanpur Surat",
+      "Panch_code": "HAN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Hetanpur",
+      "Panch_code": "HET"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Imansarai",
+      "Panch_code": "IMN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Inayatpur",
+      "Panch_code": "INP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Jodpura",
+      "Panch_code": "JOD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Rupouli",
+      "Panch_code": "RUP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Shahpur Undi",
+      "Panch_code": "SHU"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Sirdilpur",
+      "Panch_code": "SIR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Siyura",
+      "Panch_code": "SIY"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Patori",
+      "Block_code": "PTR",
+      "Panchayat": "Tara Dhamoun",
+      "Panch_code": "TAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Bharwadi",
+      "Panch_code": "BHR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Bhirha Dakshin",
+      "Panch_code": "BHS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Bhirha Pashchim",
+      "Panch_code": "BHM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Bhirha Purab",
+      "Panch_code": "BHE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Chakthat Pashchim",
+      "Panch_code": "CHW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Chakthat Purab",
+      "Panch_code": "CHE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Haripur",
+      "Panch_code": "HRP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Jahangirpur Dakshin",
+      "Panch_code": "JPS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Jahangirpur Uttar",
+      "Panch_code": "JPN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Mahouddin Nagar Pashchim",
+      "Panch_code": "MDW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Mahouddin Nagar Purab",
+      "Panch_code": "MDE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Motopur",
+      "Panch_code": "MOT"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Rahua",
+      "Panch_code": "RHA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Rosera Nagar Parishad",
+      "Panch_code": "RON"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Sonupur Uttar",
+      "Panch_code": "SPN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Sunupur Dakshain",
+      "Panch_code": "SPS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Rosera",
+      "Block_code": "ROS",
+      "Panchayat": "Thahar Basadhiya",
+      "Panch_code": "THB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Akhtiyarpur Balbhadrapur",
+      "Panch_code": "AKB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Bajitpur Meyari",
+      "Panch_code": "BAM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Barbatta",
+      "Panch_code": "BAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Bhagwatpur",
+      "Panch_code": "BHG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Dharampur",
+      "Panch_code": "DHA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Gangapur",
+      "Panch_code": "GAN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Gangasara",
+      "Panch_code": "GAG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Harpur Barheta",
+      "Panch_code": "HAB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Jitwarpur Kumhira",
+      "Panch_code": "JIT"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Khajuri",
+      "Panch_code": "KJR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Kishanpur Yusuf",
+      "Panch_code": "KIY"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Latbasepura",
+      "Panch_code": "LAT"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Manikpur",
+      "Panch_code": "MAN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Musapur",
+      "Panch_code": "MUA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Musarigharari Nagar",
+      "Panch_code": "MUG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Nauchak",
+      "Panch_code": "NAU"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Raipur Bujurg",
+      "Panch_code": "RAI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Rupauli Bujurg",
+      "Panch_code": "RUB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Sarairanjan",
+      "Block_code": "SAR",
+      "Panchayat": "Sarairanjan Nagar",
+      "Panch_code": "SAN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Ballipur",
+      "Panch_code": "BAP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Bandhar",
+      "Panch_code": "BND"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Bhataura",
+      "Panch_code": "BHT"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Dasaut",
+      "Panch_code": "DAS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Dhiyar Ranna",
+      "Panch_code": "DHR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Dumara Mohan",
+      "Panch_code": "DUM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Ghiwahi",
+      "Panch_code": "GHI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Jakhar Dharmpur",
+      "Panch_code": "JAD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Kariyan",
+      "Panch_code": "KAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Madhurapur",
+      "Panch_code": "MDP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Parsa",
+      "Panch_code": "PRS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Rahiyar Dakshin",
+      "Panch_code": "RAS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Rahiyar Uttar",
+      "Panch_code": "RAN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Rahtaulee",
+      "Panch_code": "RAH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Rajaur Rambhadrapur",
+      "Panch_code": "RRP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Rani Parti",
+      "Panch_code": "RNP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Shivajinagar",
+      "Block_code": "SHN",
+      "Panchayat": "Shankarpur",
+      "Panch_code": "SHP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Bangarhatta",
+      "Panch_code": "BAH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Fulhara",
+      "Panch_code": "FUH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Hardiya",
+      "Panch_code": "HAD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Jahangirpur",
+      "Panch_code": "JGP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Keothar",
+      "Panch_code": "KET"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Kundal 01",
+      "Panch_code": "KUN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Kundal 02",
+      "Panch_code": "KUD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Lilhaul",
+      "Panch_code": "LIL"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Mahe",
+      "Panch_code": "MHE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Mahra",
+      "Panch_code": "MHR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Nirpur Bharariya",
+      "Panch_code": "NIB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Shalepur",
+      "Panch_code": "SAP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Singhia-1",
+      "Panch_code": "SIG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Singhia-2",
+      "Panch_code": "SIH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Singhia-3",
+      "Panch_code": "SIA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Vishanpur Diha",
+      "Panch_code": "VPD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Singhia",
+      "Block_code": "SIN",
+      "Panchayat": "Wari",
+      "Panch_code": "WAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Adharpur",
+      "Panch_code": "ADR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Baghi",
+      "Panch_code": "BAI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Bhairokhra (Nagar Parishad)",
+      "Panch_code": "BNP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Fatehpur Wala",
+      "Panch_code": "FAW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Gauspur Sarsona",
+      "Panch_code": "GAS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Harishankarpur Baghauni",
+      "Panch_code": "HAI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Kasbe Aahar (Nagar Parishad)",
+      "Panch_code": "KNP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Kothia",
+      "Panch_code": "KOI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Madhopur Digharua",
+      "Panch_code": "MDG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Manpura",
+      "Panch_code": "MPU"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Motipur Tajpur (Nagar Parishad)",
+      "Panch_code": "MTP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Muradpur Bangra",
+      "Panch_code": "MUB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Rahimabad (Nagar Parishad)",
+      "Panch_code": "RHN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Rajwa",
+      "Panch_code": "RJA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Ramapur Maheshpur",
+      "Panch_code": "RAM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Tajpur",
+      "Block_code": "TAP",
+      "Panchayat": "Shahpur Baghauni (Nagar Parishad)",
+      "Panch_code": "SNP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Angarghat",
+      "Panch_code": "ANG"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Baikunthpur Brahanda",
+      "Panch_code": "BAB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Belamegh",
+      "Panch_code": "BEL"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Belari",
+      "Panch_code": "BER"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Bhagwanpur Desua",
+      "Panch_code": "BHD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Bhagwanpur Kamla",
+      "Panch_code": "BHK"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Birnamatula",
+      "Panch_code": "BIR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Chaita Dakshini",
+      "Panch_code": "CHS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Chaita Uttari",
+      "Panch_code": "CHN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Chandchaur Karihara",
+      "Panch_code": "CCK"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Chandchaur Madhya",
+      "Panch_code": "CCM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Chandchaur Paschim",
+      "Panch_code": "CCW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Chandchaur Purab",
+      "Panch_code": "CCE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Dadhiya Muriyaro",
+      "Panch_code": "DAM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Ganwpur",
+      "Panch_code": "GAW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Harpur Rewadi",
+      "Panch_code": "HAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Lakhanipur Maheshpatti",
+      "Panch_code": "LAM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Lohagir",
+      "Panch_code": "LOH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Mahisari",
+      "Panch_code": "MAH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Malati",
+      "Panch_code": "MAL"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Najirpur",
+      "Panch_code": "NAJ"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Nikaspur",
+      "Panch_code": "NIK"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Paroriya",
+      "Panch_code": "PAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Pataili Pashchim",
+      "Panch_code": "PAW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Pataili Purab",
+      "Panch_code": "PAE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Raipur",
+      "Panch_code": "RAP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Ramchandrapur Andhail",
+      "Panch_code": "RAA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Ujiarpur",
+      "Block_code": "UJP",
+      "Panchayat": "Satanpur",
+      "Panch_code": "SAT"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Badhauna",
+      "Panch_code": "BAD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Bangraha",
+      "Panch_code": "BAN"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Gadhsisai",
+      "Panch_code": "GAD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Harpur Bochha",
+      "Panch_code": "HRB"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Kancha",
+      "Panch_code": "KAC"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Maniyarpur",
+      "Panch_code": "MAY"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Marwa",
+      "Panch_code": "MAR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Mau Dakshin",
+      "Panch_code": "MOD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Mau Uttar",
+      "Panch_code": "MOU"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Sahit",
+      "Panch_code": "SAH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Sherpur",
+      "Panch_code": "SER"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Simri",
+      "Panch_code": "SIM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Sothgama",
+      "Panch_code": "SOT"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Vidyapatinagar",
+      "Block_code": "VID",
+      "Panchayat": "Wazidpur",
+      "Panch_code": "WAZ"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Basantpur Ramani",
+      "Panch_code": "BRR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Chhatneswar",
+      "Panch_code": "CHR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Darsur",
+      "Panch_code": "DRS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Dhanhar",
+      "Panch_code": "DNR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Dhurlakh",
+      "Panch_code": "DHM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Gohi",
+      "Panch_code": "GOI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Hansa",
+      "Panch_code": "HAA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Kusaiya",
+      "Panch_code": "KUA"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Lakhanpatti",
+      "Panch_code": "LAI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Maniyarpur",
+      "Panch_code": "MNR"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Mathurapur",
+      "Panch_code": "MTH"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Mohiuddinpur",
+      "Panch_code": "MDD"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Purnahi",
+      "Panch_code": "PUI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Raipur",
+      "Panch_code": "RIP"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Rampur Bisanpur",
+      "Panch_code": "RPS"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Rohua East",
+      "Panch_code": "ROE"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Rohua West",
+      "Panch_code": "ROW"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Sari",
+      "Panch_code": "SAI"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Satmalpur",
+      "Panch_code": "STM"
+     },
+     {
+      "District": "Samastipur",
+      "Block": "Warisnagar",
+      "Block_code": "WAN",
+      "Panchayat": "Shekhopur",
+      "Panch_code": "SHE"
+     }
+    ]
+    }
