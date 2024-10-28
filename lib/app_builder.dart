@@ -59,10 +59,10 @@ class CustomAppBuilder extends AppBuilder {
                     locale: provider.locale,
                     supportedLocales: L10n.all,
                     localizationsDelegates: const [
-                      AppLocalizations.delegate,
-                      GlobalMaterialLocalizations.delegate,
-                      GlobalWidgetsLocalizations.delegate,
-                      GlobalCupertinoLocalizations.delegate,
+                      // AppLocalizations.delegate,
+                      // GlobalMaterialLocalizations.delegate,
+                      // GlobalWidgetsLocalizations.delegate,
+                      // GlobalCupertinoLocalizations.delegate,
                     ],
                     routerDelegate: appRouter.delegate(
                       deepLinkBuilder: (_) => initialDeepLink != null
@@ -106,6 +106,7 @@ class CustomAppBuilder extends AppBuilder {
                     ),
                   );
                 }
+              ),
     )
   );
 }

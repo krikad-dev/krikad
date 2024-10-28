@@ -1,5 +1,6 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_starter/configurations/router/router.gr.dart';
 
 
 export 'router.gr.dart';
@@ -19,6 +20,18 @@ class AppRouter extends RootStackRouter{
   @override
   List<AutoRoute> get routes => [
     /// routes go here
+    AutoRoute(
+      path: '/auth',
+      page: LoginRoute.page,
+      initial: true
+    ),
+    AutoRoute(
+      page: AppHomeRoute.page, 
+      path: '/app_home',
+      guards: [
+
+      ]
+    )
   ];
 
 }
