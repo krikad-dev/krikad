@@ -48,6 +48,13 @@ class CustomAppBuilder extends AppBuilder {
       BlocProvider<AppCubit>(
               create: (context) => AppCubit.instance,
             ),
+      BlocProvider<AppLinksCubit>(
+              create: (context) => AppLinksCubit(
+                null,
+                context.read<AppLinksRepository>(),
+              ),
+              lazy: false,
+            ),
     ], 
     builder: (context)=>LoginListenerWrapper(
       initialUser: context.read<AuthCubit>().state.user,
@@ -66,9 +73,9 @@ class CustomAppBuilder extends AppBuilder {
                     scaffoldMessengerKey:
                         DjangoflowAppSnackbar.scaffoldMessengerKey,
                     title: appName,
-                    routerConfig: appRouter.config(
-                      reevaluateListenable: ReevaluateListenable.stream(AuthCubit.instance.stream),
-                    ),
+                    // routerConfig: appRouter.config(
+                    //   reevaluateListenable: ReevaluateListenable.stream(AuthCubit.instance.stream),
+                    // ),
                     routeInformationParser: appRouter.defaultRouteParser(),
                     theme: AppTheme.light,
                     darkTheme: AppTheme.dark,
