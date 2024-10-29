@@ -53,6 +53,5 @@ class AuthGuard extends AutoRouteGuard {
   //   _subscription.cancel();
   // }
 
-  @override
   Future<bool> canNavigate(RouteMatch route) async => isAuthenticated;
 }
