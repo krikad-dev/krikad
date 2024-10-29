@@ -9,6 +9,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_starter/app_builder.dart';
 import 'package:flutter_starter/configurations/network/application_error.dart';
+import 'package:flutter_starter/firebase_options.dart';
 import 'package:flutter_starter/l10n/language_provider.dart';
 import 'package:flutter_starter/utils/extensions/app_dio_exception.dart';
 import 'package:flutter_starter/utils/extensions/extensions.dart';
@@ -39,9 +40,9 @@ Future<void> main() async {
     await Hive.initFlutter();
 
     
-    // await Firebase.initializeApp(
-    //   // options: DefaultFirebaseOptions.currentPlatform,
-    // );
+    await Firebase.initializeApp(
+      options: DefaultFirebaseOptions.currentPlatform,
+    );
     const fatalError = true;
 
     // Configure crashylytics
