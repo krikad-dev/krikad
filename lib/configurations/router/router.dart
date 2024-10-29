@@ -1,5 +1,6 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_starter/configurations/router/auth_guard.dart';
 import 'package:flutter_starter/configurations/router/router.gr.dart';
 
 
@@ -29,7 +30,7 @@ class AppRouter extends RootStackRouter{
       page: AppHomeRoute.page, 
       path: '/app_home',
       guards: [
-
+        AuthGuard()
       ]
     )
   ];

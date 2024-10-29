@@ -8,8 +8,10 @@ class AppHomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(
-      child: Text('App Home Page'),
+    return const Scaffold(
+      body: Center(
+        child: Text('App Home Page'),
+      ),
     );
   }
 }
