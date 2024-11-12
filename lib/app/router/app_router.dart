@@ -19,6 +19,7 @@
 
 // Create keys for `root` & `section` navigator avoiding unnecessary rebuilds
 import 'package:flutter/material.dart';
+import 'package:flutter_starter/app/router/custom_route_observer.dart';
 import 'package:flutter_starter/feature/index.dart';
 import 'package:go_router/go_router.dart';
 
@@ -29,6 +30,9 @@ final _sectionNavigatorKey = GlobalKey<NavigatorState>();
 final router = GoRouter(
   navigatorKey: _rootNavigatorKey,
   initialLocation: '/home',
+  observers: [
+    GoRouterObserver(),
+  ],
   routes: <RouteBase>[
     StatefulShellRoute.indexedStack(
       builder: (context, state, navigationShell) {
@@ -44,6 +48,12 @@ final router = GoRouter(
           GoRoute(
             path: '/home',
             builder: (context, state) => const HomePage(),
+            routes: <RouteBase>[
+               GoRoute(
+                  path: '/feature1',
+                  builder: (context, state) => const FeatureOnePage(),
+                ),
+            ],
           ),
         ],),
         
@@ -57,11 +67,8 @@ final router = GoRouter(
             GoRoute(
               path: '/setting',
               builder: (context, state) => const SettingsPage(),
-              // routes: const <RouteBase> [
-              //   // GoRoute(
-              //   //   path: 'detail',
-              //   //   builder: (context, state) => const FeedDetailsPage(),
-              //   // )
+              // routes: <RouteBase> [
+              
               // ],
             ),
           ],
