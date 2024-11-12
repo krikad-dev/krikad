@@ -10,13 +10,13 @@ part of 'development_environment.dart';
 // ignore_for_file: type=lint
 final class _DevelopmentEnvironment {
   static const List<int> _enviedkeybaseUrl = <int>[
-    134823931,
-    3370924057,
+    3609567800,
+    3420498852,
   ];
 
   static const List<int> _envieddatabaseUrl = <int>[
-    134823900,
-    3370924094,
+    3609567775,
+    3420498819,
   ];
 
   static final String baseUrl = String.fromCharCodes(List<int>.generate(
