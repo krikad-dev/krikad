@@ -10,6 +10,13 @@
             "type": "dart"
         },
         {
+            "name": "flutter_starter (debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "program": "lib/main_development.dart"
+        },
+        {
             "name": "flutter_starter (profile mode)",
             "request": "launch",
             "type": "dart",
