@@ -14,6 +14,7 @@ class HomeView extends StatelessWidget {
           context.l10n.flutter,
         ),
       ),
+      body: const Center(child: Text('Hello World'),),
     );
   }
 }
