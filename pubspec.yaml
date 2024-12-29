@@ -35,6 +35,7 @@ dependencies:
 
   # Dependency Injection
   get_it: ^8.0.0
+  carousel_slider: ^5.0.0
 
 dev_dependencies:
   flutter_test:
@@ -55,3 +56,11 @@ flutter:
   assets:
     - assets/fonts/
     - assets/icons/
+  
+  fonts:
+    - family: Montserrat_Alternates
+      fonts:
+        - asset: assets/fonts/MontserratAlternates-Regular.ttf
+        - asset: assets/fonts/MontserratAlternates-Medium.ttf
+        - asset: assets/fonts/MontserratAlternates-Bold.ttf
+        - asset: assets/fonts/MontserratAlternates-Light.ttf

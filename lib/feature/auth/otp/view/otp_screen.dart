@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_starter/app/router/app_router.dart';
+import 'package:go_router/go_router.dart';
 
 class OtpScreen extends StatefulWidget {
   const OtpScreen({super.key});
@@ -15,7 +17,7 @@ class _OtpScreenState extends State<OtpScreen> {
         backgroundColor: Colors.white,
         elevation: 0,
         leading: IconButton(
-          icon: Icon(Icons.arrow_back, color: Colors.green),
+          icon: const Icon(Icons.arrow_back, color: Colors.green),
           onPressed: () {
             // Define back action
           },
@@ -25,11 +27,10 @@ class _OtpScreenState extends State<OtpScreen> {
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 20),
         child: Column(
-          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             // Logo and Title
-            Column(
+            const Column(
               children: [
                 Text(
                   'Krikad',
@@ -46,9 +47,9 @@ class _OtpScreenState extends State<OtpScreen> {
                 ),
               ],
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             // Subtitle
-            Text(
+            const Text(
               'Enter OTP',
               style: TextStyle(
                 fontSize: 18,
@@ -56,9 +57,9 @@ class _OtpScreenState extends State<OtpScreen> {
                 fontWeight: FontWeight.w400,
               ),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             // OTP Info Text
-            Text(
+            const Text(
               'We have sent you an One Time Password to\n+91-xxxxxxxxxx',
               textAlign: TextAlign.center,
               style: TextStyle(
@@ -66,7 +67,7 @@ class _OtpScreenState extends State<OtpScreen> {
                 color: Colors.black,
               ),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             // OTP Input Fields (Dummy Representation)
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -75,13 +76,13 @@ class _OtpScreenState extends State<OtpScreen> {
                 (index) => Container(
                   width: 50,
                   height: 50,
-                  decoration: BoxDecoration(
+                  decoration: const BoxDecoration(
                     border: Border(
-                      bottom: BorderSide(width: 2, color: Colors.black),
+                      bottom: BorderSide(width: 2),
                     ),
                   ),
                   alignment: Alignment.center,
-                  child: Text(
+                  child: const Text(
                     '-',
                     style: TextStyle(
                       fontSize: 24,
@@ -92,9 +93,9 @@ class _OtpScreenState extends State<OtpScreen> {
                 ),
               ),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             // Resend OTP Text
-            Text.rich(
+            const Text.rich(
               TextSpan(
                 text: "Didn't receive the OTP? ",
                 style: TextStyle(fontSize: 14, color: Colors.black),
@@ -110,22 +111,23 @@ class _OtpScreenState extends State<OtpScreen> {
                 ],
               ),
             ),
-            SizedBox(height: 30),
+            const SizedBox(height: 30),
             // Verify Button
             SizedBox(
               width: double.infinity,
               child: ElevatedButton(
                 onPressed: () {
                   // Define verify action
+                  context.go('/home');
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.green,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(8),
                   ),
-                  padding: EdgeInsets.symmetric(vertical: 14),
+                  padding: const EdgeInsets.symmetric(vertical: 14),
                 ),
-                child: Text(
+                child: const Text(
                   'Verify',
                   style: TextStyle(
                     fontSize: 16,
