@@ -16,24 +16,45 @@
 //       ];
 // }
 
-
 // Create keys for `root` & `section` navigator avoiding unnecessary rebuilds
 import 'package:flutter/material.dart';
 import 'package:flutter_starter/app/router/custom_route_observer.dart';
+import 'package:flutter_starter/feature/auth/login/view/login_screen.dart';
+import 'package:flutter_starter/feature/auth/otp/view/otp_screen.dart';
+import 'package:flutter_starter/feature/auth/signup/view/signup_screen.dart';
 import 'package:flutter_starter/feature/index.dart';
 import 'package:go_router/go_router.dart';
 
 final _rootNavigatorKey = GlobalKey<NavigatorState>();
 final _sectionNavigatorKey = GlobalKey<NavigatorState>();
 
-
 final router = GoRouter(
   navigatorKey: _rootNavigatorKey,
-  initialLocation: '/home',
+  initialLocation: '/login',
   observers: [
     GoRouterObserver(),
   ],
   routes: <RouteBase>[
+    GoRoute(
+      path: '/login',
+      builder: (context, state) => const LoginScreen(),
+      routes: <RouteBase>[
+        GoRoute(
+          path: '/otp',
+          builder: (context, state) => const OtpScreen(),
+        ),
+      ],
+    ),
+    GoRoute(
+      path: '/sign-up',
+      builder: (context, state) => const SignupScreen(),
+      routes: <RouteBase>[
+        GoRoute(
+          path: '/otp',
+          builder: (context, state) => const OtpScreen(),
+        ),
+      ],
+    ),
     StatefulShellRoute.indexedStack(
       builder: (context, state, navigationShell) {
         // Return the widget that implements the custom shell (e.g a BottomNavigationBar).
@@ -42,21 +63,22 @@ final router = GoRouter(
       },
       branches: [
         // The route branch for the 1º Tab
-        StatefulShellBranch(routes: <RouteBase>[
-          // Add this branch routes
-          // each routes with its sub routes if available e.g shope/uuid/details
-          GoRoute(
-            path: '/home',
-            builder: (context, state) => const HomePage(),
-            routes: <RouteBase>[
-               GoRoute(
+        StatefulShellBranch(
+          routes: <RouteBase>[
+            // Add this branch routes
+            // each routes with its sub routes if available e.g shope/uuid/details
+            GoRoute(
+              path: '/home',
+              builder: (context, state) => const HomePage(),
+              routes: <RouteBase>[
+                GoRoute(
                   path: '/feature1',
                   builder: (context, state) => const FeatureOnePage(),
                 ),
-            ],
-          ),
-        ],),
-        
+              ],
+            ),
+          ],
+        ),
 
         // The route branch for 2º Tab
         StatefulShellBranch(
@@ -68,7 +90,7 @@ final router = GoRouter(
               path: '/setting',
               builder: (context, state) => const SettingsPage(),
               // routes: <RouteBase> [
-              
+
               // ],
             ),
           ],
