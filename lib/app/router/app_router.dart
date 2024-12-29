@@ -31,7 +31,7 @@ final _sectionNavigatorKey = GlobalKey<NavigatorState>();
 
 final router = GoRouter(
   navigatorKey: _rootNavigatorKey,
-  initialLocation: '/welcome',
+  initialLocation: '/login',
   observers: [
     GoRouterObserver(),
   ],
