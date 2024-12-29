@@ -23,6 +23,7 @@ import 'package:flutter_starter/feature/auth/login/view/login_screen.dart';
 import 'package:flutter_starter/feature/auth/otp/view/otp_screen.dart';
 import 'package:flutter_starter/feature/auth/signup/view/signup_screen.dart';
 import 'package:flutter_starter/feature/index.dart';
+import 'package:flutter_starter/feature/welcome/view/welcome.dart';
 import 'package:go_router/go_router.dart';
 
 final _rootNavigatorKey = GlobalKey<NavigatorState>();
@@ -35,6 +36,10 @@ final router = GoRouter(
     GoRouterObserver(),
   ],
   routes: <RouteBase>[
+    GoRoute(
+      path: '/welcome',
+      builder: (context, state) => const WelcomeScreen(),
+    ),
     GoRoute(
       path: '/login',
       builder: (context, state) => const LoginScreen(),
