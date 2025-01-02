@@ -147,17 +147,17 @@ class HomePage extends StatelessWidget {
                 children: [
                   specialDealItem(
                     'Fresh Carrot',
-                    'assets/images/carrot.png',
+                    'assets/images/carrot.svg',
                     'Rs 18/kg',
                   ),
                   specialDealItem(
                     'Fresh Tomato',
-                    'assets/images/tomato.png',
+                    'assets/images/tomato.svg',
                     'Rs 14/kg',
                   ),
                   specialDealItem(
                     'Fresh Potato',
-                    'assets/images/potato.png',
+                    'assets/images/potato.svg',
                     'Rs 10/kg',
                   ),
                 ],

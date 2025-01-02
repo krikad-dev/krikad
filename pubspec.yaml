@@ -56,6 +56,10 @@ flutter:
   assets:
     - assets/fonts/
     - assets/icons/
+    - assets/images/carrot.svg
+    - assets/images/onion.svg
+    - assets/images/potato.svg
+    - assets/images/redchilli.svg
   
   fonts:
     - family: Montserrat_Alternates
@@ -64,3 +68,4 @@ flutter:
         - asset: assets/fonts/MontserratAlternates-Medium.ttf
         - asset: assets/fonts/MontserratAlternates-Bold.ttf
         - asset: assets/fonts/MontserratAlternates-Light.ttf
+        
