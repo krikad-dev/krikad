@@ -22,6 +22,10 @@ auto_route_generator
 3.3
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/auto_route_generator-9.0.0/
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/auto_route_generator-9.0.0/lib/
+bloc
+2.12
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/bloc-8.1.4/
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/bloc-8.1.4/lib/
 boolean_selector
 2.17
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1/
@@ -150,6 +154,10 @@ fixnum
 3.1
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/fixnum-1.1.1/
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/fixnum-1.1.1/lib/
+flutter_bloc
+2.12
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/flutter_bloc-8.1.6/
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/flutter_bloc-8.1.6/lib/
 flutter_gen_core
 2.17
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/flutter_gen_core-5.8.0/
@@ -158,6 +166,10 @@ flutter_gen_runner
 2.17
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/flutter_gen_runner-5.8.0/
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/flutter_gen_runner-5.8.0/lib/
+flutter_svg
+3.4
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/flutter_svg-2.0.16/
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/flutter_svg-2.0.16/lib/
 frontend_server_client
 3.0
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/frontend_server_client-4.0.0/
@@ -254,6 +266,10 @@ mime
 3.2
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/mime-2.0.0/
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/mime-2.0.0/lib/
+nested
+2.12
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/nested-1.0.0/
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/nested-1.0.0/lib/
 package_config
 2.12
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/package_config-2.1.0/
@@ -290,6 +306,10 @@ pretty_dio_logger
 3.0
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/pretty_dio_logger-1.4.0/
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/pretty_dio_logger-1.4.0/lib/
+provider
+2.12
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/provider-6.1.2/
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/provider-6.1.2/lib/
 pub_semver
 2.17
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/pub_semver-2.1.4/
@@ -362,6 +382,10 @@ uuid
 3.0
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/uuid-4.5.1/
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/uuid-4.5.1/lib/
+vector_graphics
+3.4
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/vector_graphics-1.1.15/
+file:///Users/sandydev/.pub-cache/hosted/pub.dev/vector_graphics-1.1.15/lib/
 vector_graphics_codec
 3.4
 file:///Users/sandydev/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.1.12/

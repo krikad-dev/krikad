@@ -5,7 +5,7 @@ import 'package:go_router/go_router.dart';
 
 @RoutePage()
 class ScaffoldWithNavbar extends StatelessWidget {
-  const ScaffoldWithNavbar({
+   ScaffoldWithNavbar({
     required this.navigationShell,
     super.key,
   });
